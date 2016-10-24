@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+OmegaT-Plugin: true
+
+Name: org.omegat.plugins.autocomplete.thot.ThotPTS
+OmegaT-Plugin: MachineTranslator
