@@ -6,7 +6,7 @@ Compile with
 ant jar
 ```
 
-(or download from the build folder) and copy build/jar/forecat-omegat.jar and the contents of lib into the plugins folder of OmegaT.
+(or download from the build folder) and copy build/jar/thot-omegat.jar and the contents of lib into the plugins folder of OmegaT.
 
 ###OmegaT bug
 
